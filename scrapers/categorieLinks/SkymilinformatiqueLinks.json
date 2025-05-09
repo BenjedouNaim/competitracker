@@ -1,0 +1,52 @@
+{
+  "Ordinateurs": {
+    "PC Bureau Gamer": "https://skymil-informatique.com/pc-bureau-gamer-tunisie",
+    "PC Portable": "https://skymil-informatique.com/pc-portable-pro",
+    "PC Portable Gamer": "https://skymil-informatique.com/pc-portable-gamer",
+    "PC Tout en un": "https://skymil-informatique.com/pc-all-in-one-tunisie",
+    "Mac": "https://www.scoop.com.tn/2143-macbook",
+    "UltraBook": "https://www.scoop.com.tn/193-pc-ultrabook",
+    "Imac": "https://www.scoop.com.tn/2142-mac"
+  },
+  "Composants Informatiques": {
+    "Boitier": "https://skymil-informatique.com/boitier-gamer-tunisie",
+    "Bloc d'Alimentation": "https://skymil-informatique.com/alimentation-psu-tunisie",
+    "Carte Graphique": "https://skymil-informatique.com/carte-graphique-tunisie",
+    "Carte Mere": [
+      "https://skymil-informatique.com/intel-tunisie",
+      "https://skymil-informatique.com/amd-tunisie"
+    ],
+    "Processeur": [
+      "https://skymil-informatique.com/processeur-intel",
+      "https://skymil-informatique.com/processeur-amd"
+    ],
+    "RAM": "https://skymil-informatique.com/memoire-ram-tunisie",
+    "Refroidisseur": [
+      "https://skymil-informatique.com/aircooling",
+      "https://skymil-informatique.com/watercooling-tunisie"
+    ],
+    "Ventilateur": "https://skymil-informatique.com/ventilateurs-rgb-tunisie",
+    "Disque Dur Interne HDD": "https://skymil-informatique.com/ssd-nvme-tunisie?q=Type+de+Disque-HDD",
+    "Disque Dur SSD": "https://skymil-informatique.com/ssd-nvme-tunisie?q=Type+de+Disque-SSD",
+    "Disque Dur Nvme": "https://skymil-informatique.com/ssd-nvme-tunisie?q=Type+de+Disque-Nvme"
+  },
+  "Périphériques": {
+    "Ecran": "https://skymil-informatique.com/ecrans-gamer",
+    "Clavier": "https://skymil-informatique.com/clavier-gamer-tunisie",
+    "Souris": "https://skymil-informatique.com/souris-gamer-tunisie",
+    "Tapis Souris": "https://skymil-informatique.com/tapis-gamer-tunisie",
+    "Webcam": "https://skymil-informatique.com/webcam-hd-tunisie",
+    "Manette": "https://skymil-informatique.com/manette-de-jeux"
+  },
+  "Audio": {
+    "Casque et Ecouteurs": "https://skymil-informatique.com/micro-casque-tunisie",
+    "Haut-Parleur": "https://skymil-informatique.com/haut-parleur-tunisie",
+    "Microphone": "https://skymil-informatique.com/micro-gamer-tunisie"
+  },
+  "Stockage": {
+    "Disque Dur Externe": "https://skymil-informatique.com/disque-dur-externe-tunisie",
+    "Disque Dur Interne HDD": "https://skymil-informatique.com/ssd-nvme-tunisie?q=Type+de+Disque-HDD",
+    "Disque Dur SSD": "https://skymil-informatique.com/ssd-nvme-tunisie?q=Type+de+Disque-SSD",
+    "Disque Dur Nvme": "https://skymil-informatique.com/ssd-nvme-tunisie?q=Type+de+Disque-Nvme"
+  }
+}

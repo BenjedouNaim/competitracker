@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67fff223503c970d8587a350"
+  },
+  "name": "Mytek",
+  "url": "https://www.mytek.tn/",
+  "logo": "https://mk-media.mytek.tn/media/logo/stores/1/LOGO-MYTEK-176PX-INVERSE.png"
+},
+{
+  "_id": {
+    "$oid": "67fffe41494c8a7c51b87ecb"
+  },
+  "name": "Tunisianet",
+  "url": "https://www.tunisianet.com.tn/",
+  "logo": "https://www.tunisianet.com.tn/img/tunisianet-logo-1611064619.jpg"
+},
+{
+  "_id": {
+    "$oid": "6800287021c80be4d6f1047b"
+  },
+  "name": "Spacenet",
+  "url": "https://spacenet.tn/",
+  "logo": "https://spacenet.tn/img/logo-mobile.svg"
+},
+{
+  "_id": {
+    "$oid": "6818ad881dc863f0198e5eba"
+  },
+  "name": "LofficielShop",
+  "url": "https://lofficielshop.tn/fr/",
+  "logo": "https://lofficielshop.tn/fr/img/logo-1713864845.jpg"
+},
+{
+  "_id": {
+    "$oid": "681a14b643551322b2fbe8c4"
+  },
+  "name": "Megapc",
+  "url": "https://megapc.tn",
+  "logo": "https://megapc.tn/_next/image?url=%2Fassets%2Fimages%2Fmega.png&w=256&q=75"
+},
+{
+  "_id": {
+    "$oid": "681a150543551322b2fbe8c8"
+  },
+  "name": "Skymilinformatique",
+  "url": "https://skymil-informatique.com",
+  "logo": "https://skymil-informatique.com/img/skymil-logo-1650967213.jpg"
+}]

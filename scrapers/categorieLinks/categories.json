@@ -1,0 +1,56 @@
+{
+    "Ordinateurs": [
+      "PC Bureau",
+      "PC Bureau Gamer",
+      "PC Portable",
+      "PC Portable Gamer",
+      "PC Portable Pro",
+      "MacBook",
+      "PC Tout en un",
+      "Imac",
+      "UltraBook"
+    ],
+    "Composants Informatiques": [
+      "Boitier",
+      "Bloc d'Alimentation",
+      "Carte Graphique",
+      "Carte Mere",
+      "Processeur",
+      "RAM",
+      "Refroidisseur",
+      "Ventilateur",
+      "Disque Dur Interne HDD",
+      "Disque Dur SSD",
+      "Disque Dur Nvme"
+    ],
+    "Périphériques": [
+      "Ecran",
+      "Clavier",
+      "Souris",
+      "Tapis Souris",
+      "Webcam",
+      "Manette"
+    ],
+    "Audio": [
+      "Casque et Ecouteurs",
+      "Haut-Parleur",
+      "Microphone"
+    ],
+    "Stockage": [
+      "Disque Dur Externe",
+      "Disque Dur Interne HDD",
+      "Disque Dur SSD",
+      "Disque Dur Nvme"
+    ],
+    "Accessoires PC Portable": [
+      "Afficheur PC",
+      "Batterie PC",
+      "Chargeur PC"
+    ],
+    "Serveurs": [
+      "Serveur"
+    ],
+    "Alimentation": [
+      "Onduleur"
+    ]
+  }

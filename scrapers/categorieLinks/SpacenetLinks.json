@@ -1,0 +1,50 @@
+{
+  "Ordinateurs": {
+    "PC Bureau": "https://spacenet.tn/79-pc-bureau-tunisie",
+    "PC Bureau Gamer": "https://spacenet.tn/205-ordinateur-de-bureau-gamer-tunisie",
+    "PC Portable": "https://spacenet.tn/74-pc-portable-tunisie",
+    "PC Portable Gamer": "https://spacenet.tn/204-pc-portable-gamer-tunisie",
+    "PC Portable Pro": "https://spacenet.tn/321-pc-portables-pro-tunisie",
+    "Mac": "https://spacenet.tn/213-pc-apple-macbook-tunisie",
+    "PC Tout en un": "https://spacenet.tn/80-pc-tout-en-un-tunisie",
+    "Imac": "https://spacenet.tn/214-imac"
+  },
+  "Composants Informatiques": {
+    "Boitier": "https://spacenet.tn/27-boitier",
+    "Bloc d'Alimentation": "https://spacenet.tn/41-alimentation",
+    "Carte Graphique": "https://spacenet.tn/21-carte-graphique",
+    "Carte Mere": "https://spacenet.tn/22-carte-mere",
+    "Processeur": "https://spacenet.tn/20-processeur",
+    "RAM": "https://spacenet.tn/25-barrette-memoire",
+    "Refroidisseur": "https://spacenet.tn/336-refroidisseurs",
+    "Ventilateur": "https://spacenet.tn/37-ventilo",
+    "Disque Dur Interne HDD": "https://spacenet.tn/24-disque-dur-interne-tunisie",
+    "Disque Dur SSD": "https://spacenet.tn/236-disque-dur-ssd-tunisie"
+  },
+  "Périphériques": {
+    "Ecran": "https://spacenet.tn/82-ecran-ordinateur-tunisie",
+    "Clavier": "https://spacenet.tn/675-clavier",
+    "Souris": "https://spacenet.tn/676-souris",
+    "Tapis Souris": "https://spacenet.tn/636-tapis-souris",
+    "Webcam": "https://spacenet.tn/497-web-cam",
+    "Manette": "https://spacenet.tn/409-controller-manette-de-jeux"
+  },
+  "Audio": {
+    "Casque et Ecouteurs": "https://spacenet.tn/561-casque",
+    "Haut-Parleur": "https://spacenet.tn/30-haut-parleur",
+    "Microphone": "https://spacenet.tn/647-microphone-tunisie"
+  },
+  "Stockage": {
+    "Disque Dur Externe": "https://spacenet.tn/24-disque-dur-interne-tunisie",
+    "Disque Dur Interne HDD": "https://spacenet.tn/24-disque-dur-interne-tunisie",
+    "Disque Dur SSD": "https://spacenet.tn/236-disque-dur-ssd-tunisie"
+  },
+  "Accessoires PC Portable": {
+    "Afficheur PC": "https://spacenet.tn/325-afficheur-pc-portable",
+    "Batterie PC": "https://spacenet.tn/326-batterie-pc-portable",
+    "Chargeur PC": "https://spacenet.tn/236-disque-dur-ssd-tunisie"
+  },
+  "Serveurs": {
+    "Serveur": "https://spacenet.tn/145-serveurs-cloud-informatique-tunisie"
+  }
+}

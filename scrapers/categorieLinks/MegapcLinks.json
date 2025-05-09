@@ -1,0 +1,43 @@
+{
+  "Ordinateurs": {
+    "PC Bureau Gamer": "https://megapc.tn/shop/ORDINATEURS/PC%20GAMER",
+    "PC Portable": "https://megapc.tn/shop/PC%20PORTABLE/PC%20PORTABLE%20PRO",
+    "PC Portable Gamer": "https://megapc.tn/shop/PC%20PORTABLE/PC%20PORTABLE%20GAMER",
+    "PC Tout en un": "https://megapc.tn/shop/ORDINATEURS/PC%20TOUT%20EN%20UN"
+  },
+  "Composants Informatiques": {
+    "Boitier": "https://megapc.tn/shop/COMPOSANTS/BOITIER",
+    "Bloc d'Alimentation": "https://megapc.tn/shop/COMPOSANTS/ALIMENTATION",
+    "Carte Graphique": "https://megapc.tn/shop/COMPOSANTS/CARTE%20GRAPHIQUE",
+    "Carte Mere": "https://megapc.tn/shop/COMPOSANTS/CARTE%20M%C3%88RE",
+    "Processeur": "https://megapc.tn/shop/COMPOSANTS/PROCESSEUR",
+    "RAM": "https://megapc.tn/shop/COMPOSANTS/BARETTE%20M%C3%89MOIRE",
+    "Refroidisseur": "https://megapc.tn/shop/COMPOSANTS/REFROIDISSEMENT",
+    "Ventilateur": "https://megapc.tn/shop/COMPOSANTS/VENTILATEUR",
+    "Disque Dur Interne HDD": "https://megapc.tn/shop/COMPOSANTS/DISQUE-HDD",
+    "Disque Dur SSD": "https://megapc.tn/shop/COMPOSANTS/DISQUE-SSD",
+    "Disque Dur Nvme": "https://megapc.tn/shop/COMPOSANTS/DISQUE-HDD"
+  },
+  "Périphériques": {
+    "Ecran": [
+      "https://megapc.tn/shop/ECRANS/ECRANS%20PRO",
+      "https://megapc.tn/shop/ECRANS/ECRANS%20GAMING"
+    ],
+    "Clavier": "https://megapc.tn/shop/ACCESSOIRES/CLAVIER",
+    "Souris": "https://megapc.tn/shop/ACCESSOIRES/SOURIS",
+    "Tapis Souris": "https://megapc.tn/shop/ACCESSOIRES/TAPIS",
+    "Webcam": "https://megapc.tn/shop/STREAMING/WEBCAM",
+    "Manette": "https://megapc.tn/shop/ACCESSOIRES/MANETTE"
+  },
+  "Audio": {
+    "Casque et Ecouteurs": "https://megapc.tn/shop/ACCESSOIRES/CASQUE",
+    "Haut-Parleur": "https://megapc.tn/shop/ACCESSOIRES/HAUT%20PARLEURS",
+    "Microphone": "https://megapc.tn/shop/STREAMING/MICROPHONES"
+  },
+  "Stockage": {
+    "Disque Dur Externe": "https://megapc.tn/shop/ACCESSOIRES/STOCKAGE%20EXTERNE",
+    "Disque Dur Interne HDD": "https://megapc.tn/shop/COMPOSANTS/DISQUE-HDD",
+    "Disque Dur SSD": "https://megapc.tn/shop/COMPOSANTS/DISQUE-SSD",
+    "Disque Dur Nvme": "https://megapc.tn/shop/COMPOSANTS/DISQUE-HDD"
+  }
+}

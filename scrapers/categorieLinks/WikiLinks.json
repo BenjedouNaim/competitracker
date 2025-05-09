@@ -1,0 +1,50 @@
+{
+    "Ordinateurs": {
+      "PC Bureau": "https://wiki.tn/ordinateur-de-bureau/",
+      "PC Bureau Gamer": "https://wiki.tn/pc-gamer",
+      "PC Portable": "https://wiki.tn/pc-portables",
+      "PC Portable Gamer": "https://wiki.tn/pc-portable-gamer",
+      "Mac": "https://wiki.tn/macbook",
+      "PC Tout en un": "https://wiki.tn/pc-all-in-one",
+      "Imac": "https://wiki.tn/imac"
+    },
+    "Composants Informatiques": {
+      "Boitier": "https://wiki.tn/boitier",
+      "Bloc d'Alimentation": "https://wiki.tn/cables-alimentation",
+      "Carte Graphique": "https://wiki.tn/carte-graphique",
+      "Carte Mere": "https://wiki.tn/carte-mere",
+      "Processeur": "https://wiki.tn/processeur",
+      "RAM": "https://wiki.tn/barrette-memoire-composants-maintenance/",
+      "Refroidisseur": [
+        "https://wiki.tn/support-refroidisseur",
+        "https://wiki.tn/watercooling"
+      ],
+      "Ventilateur": "https://wiki.tn/ventilateurs-composants-maintenance/",
+      "Disque Dur Interne HDD": "https://wiki.tn/disque-dur-interne",
+      "Disque Dur SSD": "https://wiki.tn/disque-dur-ssd"
+    },
+    "Périphériques": {
+      "Ecran": "https://wiki.tn/ecran",
+      "Clavier": "https://wiki.tn/clavier",
+      "Souris": "https://wiki.tn/souris-tapis",
+      "Manette": "https://wiki.tn/manette-de-jeux",
+      "Webcam": "https://wiki.tn/web-cam"
+    },
+    "Audio": {
+      "Casque et Ecouteurs": "https://wiki.tn/ecouteurs-micro-casque",
+      "Haut-Parleur": "https://wiki.tn/haut-parleur",
+      "Microphone": "https://wiki.tn/microphone/"
+    },
+    "Stockage": {
+      "Disque Dur Externe": "https://wiki.tn/disque-dur-externe",
+      "Disque Dur Interne HDD": "https://wiki.tn/disque-dur-interne",
+      "Disque Dur SSD": "https://wiki.tn/disque-dur-ssd"
+    },
+    "Accessoires PC Portable": {
+      "Batterie PC": "https://wiki.tn/batterie",
+      "Chargeur PC": "https://wiki.tn/chargeur-pc-portable"
+    },
+    "Serveurs": {
+      "Serveur": "https://wiki.tn/serveur-station-de-travail/"
+    }
+  }

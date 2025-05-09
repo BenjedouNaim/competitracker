@@ -1,0 +1,58 @@
+{
+  "Ordinateurs": {
+    "PC Bureau": "https://www.mytek.tn/informatique/ordinateur-de-bureau/pc-de-bureau.html",
+    "PC Bureau Gamer": "https://www.mytek.tn/informatique/ordinateur-de-bureau/ordinateur-gamer.html",
+    "PC Portable": "https://www.mytek.tn/informatique/ordinateurs-portables/pc-portable.html",
+    "PC Portable Gamer": "https://www.mytek.tn/informatique/ordinateurs-portables/pc-gamer.html",
+    "PC Portable Pro": "https://www.mytek.tn/informatique/ordinateurs-portables/pc-portable-pro.html",
+    "Mac": "https://www.mytek.tn/informatique/ordinateurs-portables/mac.html",
+    "PC Tout en un": "https://www.mytek.tn/informatique/ordinateur-de-bureau/pc-tout-en-un.html",
+    "Imac": "https://www.mytek.tn/informatique/ordinateur-de-bureau/imac.html",
+    "UltraBook": "https://www.mytek.tn/informatique/ordinateurs-portables/ultrabook.html"
+  },
+  "Composants Informatiques": {
+    "Boitier": "https://www.mytek.tn/informatique/composants-informatique/boitier.html",
+    "Bloc d'Alimentation": "https://www.mytek.tn/informatique/composants-informatique/bloc-d-alimentation.html",
+    "Carte Graphique": "https://www.mytek.tn/informatique/composants-informatique/carte-graphique.html",
+    "Carte Mere": "https://www.mytek.tn/informatique/composants-informatique/carte-mere.html",
+    "Processeur": "https://www.mytek.tn/informatique/composants-informatique/processeur.html",
+    "RAM": "https://www.mytek.tn/informatique/composants-informatique/barrettes-memoire.html",
+    "Refroidisseur": "https://www.mytek.tn/gaming/composant-pc-gamer/refroidisseur-processeur-gamer.html",
+    "Ventilateur": "https://www.mytek.tn/informatique/composants-informatique/ventilateur.html"
+  },
+  "Périphériques": {
+    "Ecran": "https://www.mytek.tn/informatique/ordinateur-de-bureau/ecran.html",
+    "Clavier": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/clavier-gamer.html",
+    "Souris": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/souris-gamer.html",
+    "Tapis Souris": "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/tapis-de-souris-gamer.html",
+    "Webcam": "https://www.mytek.tn/informatique/peripheriques-accessoires/webcam.html",
+    "Manette": "https://www.mytek.tn/gaming/accessoires-de-jeux/manettes.html"
+  },
+  "Audio": {
+    "Casque et Ecouteurs": [
+      "www.mytek.tn/image-son/son-numerique/casque-kit.html",
+      "https://www.mytek.tn/image-son/son-numerique/ecouteurs.html"
+    ],
+    "Haut-Parleur": "https://www.mytek.tn/image-son/son-numerique/haut-parleur.html",
+    "Microphone": [
+      "https://www.mytek.tn/image-son/son-numerique/microphone.html",
+      "https://www.mytek.tn/gaming/peripheriques-et-accessoires-gamers/microphone-gamer.html"
+    ]
+  },
+  "Stockage": {
+    "Disque Dur Externe": "https://www.mytek.tn/informatique/stockage/disque-dur-externe.html",
+    "Disque Dur Interne HDD": "https://www.mytek.tn/informatique/stockage/disque-dur-interne.html",
+    "Disque Dur SSD": "https://www.mytek.tn/informatique/stockage/disque-dur-ssd.html"
+  },
+  "Accessoires PC Portable": {
+    "Afficheur PC": "https://www.mytek.tn/informatique/composants-informatique/afficheur-ecran.html",
+    "Batterie PC": "https://www.mytek.tn/informatique/composants-informatique/batterie-pc-portable.html",
+    "Chargeur PC": "https://www.mytek.tn/informatique/composants-informatique/chargeur-pc-portable.html"
+  },
+  "Serveurs": {
+    "Serveur": "https://www.mytek.tn/informatique/serveurs.html"
+  },
+  "Alimentation": {
+    "Onduleur": "https://www.mytek.tn/informatique/composants-informatique/onduleur.html"
+  }
+}

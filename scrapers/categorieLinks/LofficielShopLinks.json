@@ -1,0 +1,37 @@
+{
+  "Ordinateurs": {
+    "PC Bureau": "https://lofficielshop.tn/fr/807-pc-bureautique",
+    "PC Bureau Gamer": "https://lofficielshop.tn/fr/963-pc-de-bureau-gaming",
+    "PC Portable": "https://lofficielshop.tn/fr/805-pc-portable",
+    "PC Portable Gamer": "https://lofficielshop.tn/fr/808-pc-gamer",
+    "PC Portable Pro": "https://lofficielshop.tn/fr/806-pc-portable-pro",
+    "Mac": "https://lofficielshop.tn/fr/809-macbook",
+    "PC Tout en un": "https://lofficielshop.tn/fr/921-pc-tout-en-un"
+  },
+  "Composants Informatiques": {
+    "Boitier": "https://lofficielshop.tn/fr/994-boitier",
+    "Bloc d'Alimentation": "https://lofficielshop.tn/fr/992-alimentation",
+    "Carte Graphique": "https://lofficielshop.tn/fr/996-carte-graphique",
+    "Carte Mere": "https://lofficielshop.tn/fr/993-carte-mere",
+    "Processeur": "https://lofficielshop.tn/fr/995-processeur",
+    "RAM": "https://lofficielshop.tn/fr/972-barrette-memoire",
+    "Refroidisseur": "https://lofficielshop.tn/fr/997-refroidisseur"
+  },
+  "Périphériques": {
+    "Ecran": "https://lofficielshop.tn/fr/609-ecran-pc",
+    "Clavier": "https://lofficielshop.tn/fr/968-clavier",
+    "Souris": "https://lofficielshop.tn/fr/967-souris",
+    "Tapis Souris": "https://lofficielshop.tn/fr/970-tapis-souris",
+    "Webcam": "https://lofficielshop.tn/fr/841-webcam"
+  },
+  "Audio": {
+    "Casque et Ecouteurs": "https://lofficielshop.tn/fr/969-casques",
+    "Haut-Parleur": "https://lofficielshop.tn/fr/883-haut-parleur",
+    "Microphone": "https://lofficielshop.tn/fr/885-microphone"
+  },
+  "Stockage": {
+    "Disque Dur Externe": "https://lofficielshop.tn/fr/846-disque-dur-externe-ssd",
+    "Disque Dur Interne HDD": "https://lofficielshop.tn/fr/847-disque-dur-interne-ssd-boitier",
+    "Disque Dur SSD": "https://lofficielshop.tn/fr/847-disque-dur-interne-ssd-boitier"
+  }
+}
