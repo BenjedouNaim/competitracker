@@ -1,0 +1,240 @@
+openapi: 3.0.0
+info:
+  title: Product API
+  version: 1.0.0
+  description: API documentation for product-related routes
+
+servers:
+  - url: http://localhost:5000
+
+components:
+  securitySchemes:
+    bearerAuth:
+      type: http
+      scheme: bearer
+      bearerFormat: JWT
+
+security:
+  - bearerAuth: []
+
+tags:
+  - name: Products
+    description: Product management and analytics
+paths:
+  /api/product/competitorProducts/{competitor_id}:
+    get:
+      tags: [Products]
+      summary: Get products for a specific competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+          description: Competitor ID
+      responses:
+        '200':
+          description: List of products
+        '400':
+          description: Invalid ID
+        '404':
+          description: No products found
+
+  /api/product/productPricePrediction/{product_id}:
+    get:
+      tags: [Products]
+      summary: Predict price of a product
+      parameters:
+        - in: path
+          name: product_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Predicted price
+        '400':
+          description: Invalid ID
+        '404':
+          description: No history found
+
+  
+  /api/product/countPromotions:
+    get:
+      tags: [Products]
+      summary: Count all promotional products
+      responses:
+        '200':
+          description: Count of promotions
+
+  /api/product/getRecentPriceChanges:
+    get:
+      tags: [Products]
+      summary: Get recent price changes for all products
+      responses:
+        '200':
+          description: List of recent price changes
+
+  /api/product/getRecentPriceChanges/{competitor_id}:
+    get:
+      tags: [Products]
+      summary: Get recent price changes for a specific competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: List of recent price changes for competitor
+
+  /api/product/getProductPriceHistory/{product_id}:
+    get:
+      tags: [Products]
+      summary: Get price history of a product
+      parameters:
+        - in: path
+          name: product_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Price history
+
+  /api/product/{product_id}/insights:
+    get:
+      tags: [Products]
+      summary: Get AI insights for a product
+      parameters:
+        - in: path
+          name: product_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: AI-generated insights
+
+  /api/competitor/competitors:
+    get:
+      tags: [Competitors]
+      summary: Get all competitors
+      responses:
+        '200':
+          description: List of competitors
+
+  /api/competitor/countCompetitors:
+    get:
+      tags: [Competitors]
+      summary: Count total competitors
+      responses:
+        '200':
+          description: Count
+
+  /api/competitor/competitor/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get a competitor by ID
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Competitor data
+
+  /api/competitor/competitorProducts/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get products of a competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Product list
+
+  /api/competitor/prixMoyenCategory/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get average price by category for a competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Average prices by category
+
+  /api/competitor/prixMoyenSubCategory/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get average price by sub-category for a competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Average prices by sub-category
+
+  /api/competitor/repartitionCategory/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get category distribution for a competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Category repartition
+
+  /api/competitor/repartitionSubCategory/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get sub-category distribution for a competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Sub-category repartition
+
+  /api/competitor/variationPrix/{competitor_id}:
+    get:
+      tags: [Competitors]
+      summary: Get price variation for a competitor
+      parameters:
+        - in: path
+          name: competitor_id
+          schema:
+            type: string
+          required: true
+      responses:
+        '200':
+          description: Min, max, average price and variation
+
+  /api/competitor/partMarche:
+    get:
+      tags: [Competitors]
+      summary: Get market share for all competitors
+      responses:
+        '200':
+          description: Market share list
